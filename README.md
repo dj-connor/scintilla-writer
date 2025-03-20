@@ -4,7 +4,7 @@ My aim with this project is to develop my own, simple [writer deck](https://www.
 
   Before you decide to go down this road, **be warned**: Designing and building a writer deck is a non-trivial task, and the costs (money and time) can add up very quickly. If you just want a writing device, I would **highly recommend** that you buy an existing writing device (several options above!). While this has been a fulfilling project, it has been far more challenging than I had anticipated. Using an e-ink display introduces many challenges that have been not-so-fun to overcome, and, even after many weeks of work, I am just starting to overcome some seemingly simple obstacles (like getting the e-ink page to partial refresh, ugh). </br>
   
-  **Another warning**: I am a novice (at best) Python coder, so much of what you see here could be optimized and may not even work for you. </br>
+  **Another warning**: I am a novice (at best) Python coder and a beginner at using Fusion 360, so much of what you see here could be optimized and may not even work for you. </br>
 
 ## Design requirements
 1. Use an e-ink display
