@@ -1,14 +1,8 @@
 # Explain
 ## Project description </br>
-<p>
-  My aim with this project is to develop my own, simple [writer deck](https://www.writerdeck.org) that incorporates my own keyboard and e-ink screen preferences. This project is largely inspired by the [Freewrite Traveler](https://getfreewrite.com/products/freewrite-traveler), a device I have wanted for a few years, but I could never justify the $500 purchase cost. Along the way, I have pulled inspiration from many different projects including the [Zerowriter](https://github.com/zerowriter/zerowriter1) (you can even [order a Zerowriter](https://www.crowdsupply.com/zerowriter/zerowriter-ink) now), the [Penkesu](https://penkesu.computer), and others. 
-</p>
-<p>
-  Before you decide to go down this road, be warned: Building a writing device to my design requirements is a non-trivial task. If you just want a writing device, I would **highly recommend** that you just buy an existing writing device. While this has been a fulfilling project, it has been far more challenging than I had anticipated. Using an e-ink display introduces many challenges that have been not-so-fun to overcome, and, even after many weeks of work, I am just starting to overcome some seemingly simple obstacles (like getting the e-ink page to partial refresh, ugh). 
-</p>
-<p>
-  Another warning: I am only a novice (at best) Python coder, so much of what you see here could be optimized and may not even work for you. 
-</p>
+My aim with this project is to develop my own, simple [writer deck](https://www.writerdeck.org) that incorporates my own keyboard and e-ink screen preferences. This project is largely inspired by the [Freewrite Traveler](https://getfreewrite.com/products/freewrite-traveler), a device I have wanted for a few years, but I could never justify the $500 purchase cost. Along the way, I have pulled inspiration from many different projects including the [Zerowriter](https://github.com/zerowriter/zerowriter1) (you can even [order a Zerowriter](https://www.crowdsupply.com/zerowriter/zerowriter-ink) now), the [Penkesu](https://penkesu.computer), and others. </br>
+  Before you decide to go down this road, be warned: Building a writing device to my design requirements is a non-trivial task. If you just want a writing device, I would **highly recommend** that you just buy an existing writing device. While this has been a fulfilling project, it has been far more challenging than I had anticipated. Using an e-ink display introduces many challenges that have been not-so-fun to overcome, and, even after many weeks of work, I am just starting to overcome some seemingly simple obstacles (like getting the e-ink page to partial refresh, ugh). </br>
+  Another warning: I am only a novice (at best) Python coder, so much of what you see here could be optimized and may not even work for you. </br>
 
 
 ## Design requirements
