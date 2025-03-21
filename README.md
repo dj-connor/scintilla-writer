@@ -16,6 +16,9 @@ My aim with this project is to develop my own, simple [writer deck](https://www.
 7. 3D printed enclosure
 8. Clamshell design to protect the screen when not in use
 
+## Keyboard
+The keyboard for the Scintilla Writer is based off of the Kobo keyboard from [larrbo](https://github.com/larrbo/odd-rocket/) (hat tip to [Penkesu](https://github.com/penk/penkesu) for sharing the link). This is my first ever keyboard build, so this part ended up being far more time consuming than anticipated. Navigating the waters of [QMK](https://qmk.fm/) is tough for a newcomer (or maybe just for me).
+
 ## e-Paper  
 My code here started as a fork of the sample code from [Waveshare Electronics](https://www.waveshare.com) for their e-Paper displays (the displays themselves are from [Good Display](https://www.good-display.com)). </br>
 
